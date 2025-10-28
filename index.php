@@ -10,6 +10,8 @@
 <body>
     <?php
     echo "tatay mo!!!!!";
+     echo "tatay mo!!!!!"; 
+     echo "tatay mo!!!!!";
     ?>
 </body>
 
