@@ -9,7 +9,7 @@
 
 <body>
     <?php
-    echo "nanay mo!!!!!";
+    echo "tatay mo!!!!!";
     ?>
 </body>
 
